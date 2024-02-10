@@ -6,8 +6,6 @@
 }
 
 
-  justify-content: center;
-}
 .layout {
   display: flex;
   flex-direction: column;
